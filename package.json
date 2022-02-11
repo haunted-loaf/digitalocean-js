@@ -1,5 +1,5 @@
 {
-  "name": "digitalocean-js",
+  "name": "digitalocean-js-source",
   "version": "1.5.12-beta.0",
   "description": "JavaScript library for the DigitalOcean API",
   "private": false,
